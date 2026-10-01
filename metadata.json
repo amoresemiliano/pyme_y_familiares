@@ -1,0 +1,6 @@
+{
+  "name": "PyME y Empresas Familiares - UdeSA",
+  "description": "Iniciativa PyME & Empresas Familiares de la Escuela de Negocios de la Universidad de San Andrés. Formación, vinculación universidad-empresa, investigación y comunidad para la continuidad y crecimiento empresarial.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
